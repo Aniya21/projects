@@ -215,7 +215,7 @@ td {
 /* Header */
 
 header {
- background:(url../images/xm-2.jpg)no-repeat center 100px;
+ background:url(../images/xm-2.jpg)no-repeat center 100px;
 	background-color: #1a56e4;
 	color: #FDFDFB;
   width:170px;
